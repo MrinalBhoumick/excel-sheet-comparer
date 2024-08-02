@@ -1,6 +1,4 @@
-Here's a structured README file for your script that guides users on how to use it. You can include this in your project's repository or documentation:
 
----
 
 # Compare Sheets and Highlight Differences
 
