@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact [Mrinal Bhoumick](mrinalbhoumick0610@example.com).
+For any questions or issues, please contact [Mrinal Bhoumick](mrinalbhoumick0610@gmail.com).
 
 ---
 
